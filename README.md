@@ -31,3 +31,39 @@ exemplo intragram e facebook os dois tem a mais aplicação de fotos uso do intr
 
 
 
+
+18/08/2023
+
+// Encontre um erro e um acerto de cada heurística e coloque no seu readme.md do github
+
+##1: Visibilidade do status do sistema
+acerto: Entrada do windows
+erro: whatsapp(status)
+#2: Correspondência entre o sistema e o mundo real
+acerto:Metáforas do windows (janela, arq,etc)
+erro:SQL exception p/user
+#3: Controle e liberdade do usuário
+acerto:pacote office(word,excel, etc)
+erro:
+#4: Consistência e padrões
+acerto: whatsapp (conversa, status, chamada)
+erro:siga (ver print)
+#5: Prevenção de erros
+acerto:
+erro:
+#6: Reconhecimento em vez de recordação
+acerto:reconhecer por data ou mes
+erro:
+#7: Flexibilidade e eficiência de uso
+acerto: atalhos
+erro:
+#8: Design estético e minimalista
+acerto:
+erro:
+#9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
+acerto:
+erro:
+#10: Ajuda e documentação
+acerto:
+erro:
+

@@ -67,3 +67,8 @@ erro:
 acerto:
 erro:
 
+21/08/2023
+
+4 Fazer o diagrama de (uml) de casos de uso com os requisitos funcionais (ver slida 10)
+
+

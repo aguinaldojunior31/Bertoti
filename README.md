@@ -72,3 +72,28 @@ erro:
 4 Fazer o diagrama de (uml) de casos de uso com os requisitos funcionais (ver slida 10)
 
 
+
+
+
+
+
+25/08/2023
+slide 23
+
+Diagram de clone UML + JAVA 
+nome da clone - sala de aula - lista chamada: LIST<ALUNO> ATRIBUTO O QUE CLONE CONHECE SUBSTATIVO COM A PRIMEIRA LETRA MINUSCULA.
+O QUE COLNE FAZ VERBO -BUSCAR ALUNO NOME(STRING NOME):LISTA<ALUNO> + BUSCAR ALUNO RA(INT RA): ALUNO
+
+
+ALUNO
+-NOME:STRING
+
+
+
+PUBLIC LIST<ALUNO>BUSCAR ALUNO NOME (STRING NOME){
+      LIST ALUNO<ALUNO>encontrados=meu linhed list<ALUNO>()
+      FOR(Aluno aluno:lista chamda)}
+          if(ALUNO.GITNOME().EQUALS(NOME))ENCONTRADOS.ADD(ALUNO)
+          }
+          RETURN ENCONTRADOS;
+

@@ -97,3 +97,68 @@ PUBLIC LIST<ALUNO>BUSCAR ALUNO NOME (STRING NOME){
           }
           RETURN ENCONTRADOS;
 
+
+
+
+
+
+          28/08/2023
+
+
+Inicie seu diagrama de colnes UML fazendo-o junto com o código java(como fizemos junots em sala e ou no slide 23).
+
+BIBLIOTECA
+livros:LIST<LIVRO>
+USUARIOS:list<usuario>
+
+
+
+
+
+public class diagrama_uml {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      public class Biblioteca{
+    	private list<livro>livros=meu linheclist<list>0;
+    	private list<usuario>usuarios linkedlist<
+    	
+    					
+      public void add livro(livro livro) {
+    		livros.add(livro);
+      public void addusuario(usuariousuario) {
+    	usuario.add(ususario);
+    	
+     public list<livrop>buscarlivronome(string nome)	{
+    	LIST<livro>enocntrados=meu linkedlist<livro>();
+    	for(Livro livro;livros)
+    		if(livro.get nome()equals(nome))
+    			encontrados.add(livros);
+    			
+    			return encontrados;
+    			
+    }
+    }
+    	}
+	  
+  }
+  
+	}
+
+}
+Faremos várias versoes desta atividade evoluindo passo a passo coloque cada versão no seu github.
+
+obs
+lembrete
+1 livro engenhariano google
+2 trade-offs
+3 requisitos não funcional usabilidade 
+4 CASO DE USO uml
+5 CLONES UML
+6 codigo java
+varias vessoes!
+incremente melhores aula a aula.
+
+
+
+

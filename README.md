@@ -161,4 +161,32 @@ incremente melhores aula a aula.
 
 
 
+22/09/2023
+
+
+funcao (int a)
+   b = a + 1
+   c = b/ 30000
+   retunr c
+   
+
+
+
+   considere apenas inteiros de - 32567 á +32568
+   quais entradas mostram defeito? - 29999, 29999, 30000, -30000
+   É possivel testar tudo? não!
+
+
+
+   o que fazer ?
+   usar tecnicas de teste
+   tecnica de teste Analise de valor limite
+   (como a divisão é por 30000, eu testo os limites do valor)
+    tecnica de teste - clones de equivalencia 
+    (0-15 n contrato) 16,17 aprendiz 18-100clt)
+    Lembrando que JUNIT não resolve "testar software.Ele so automatiza
+    para testar voce precisa de tecnicas de teste.
+
+
+
 
